@@ -6,7 +6,7 @@ const {
 } = require('./methods');
 const { performance } = require('perf_hooks');
 
-let nDigits = Math.floor(Math.random() * 11);
+let nDigits = Math.floor(Math.random() * 101);
 let base_array = [];
 
 let ini, end;
