@@ -2,8 +2,7 @@ const {
     generateArray,
     moveZerosToTheEnd,
     addUnit,
-    getTheMaxSumSubArray,
-    perform
+    getTheMaxSumSubArray
 } = require('./methods');
 const { performance } = require('perf_hooks');
 
